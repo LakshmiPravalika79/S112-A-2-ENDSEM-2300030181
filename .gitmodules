@@ -1,0 +1,9 @@
+[submodule "Sample-Ansible-Playbook-template"]
+	path = Sample-Ansible-Playbook-template
+	url = https://tinyurl.com/5us7tyyx
+[submodule "hospitalbackend"]
+	path = hospitalbackend
+	url = https://tinyurl.com/hospitalbackend
+[submodule "hospitalfrontend"]
+	path = hospitalfrontend
+	url = https://tinyurl.com/hospitalfrontend
